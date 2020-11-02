@@ -1,6 +1,4 @@
-{/* <script>
-    function sayHi() {
-        console.log("Hi!")
-    }
-</script> */}
-console.log("Hi")
+function sayHello() {
+    console.log("Hi,lcoderfit,I can,<\/script>");
+}
+sayHello();
